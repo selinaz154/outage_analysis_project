@@ -1,9 +1,8 @@
-# outage_analysis_project
-# Your Title Here
 
-**Name(s)**: (your name(s) here)
+# Title: Outage Analysis Project
 
-**Website Link**: (your website link)
+**Name(s)**: Selina Zhang, Vivian Lin
+
 
 
 ## Introduction

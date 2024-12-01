@@ -1,7 +1,7 @@
 
 # Title: Outage Analysis Project
 
-**Name(s)**: Selina Zhang, Vivian Lin
+**Name(s)**: Vivian Lin, Selina Zhang
 
 
 
